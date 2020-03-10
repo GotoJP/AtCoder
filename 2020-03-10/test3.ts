@@ -8,8 +8,6 @@ const dislikeNumbers = input[1].split(' ');
 let flag: boolean = true;
 
 
-
-
 while (flag === true) {
     flag = false;
     let target = String(price).split('');
